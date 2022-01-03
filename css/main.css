@@ -1,0 +1,146 @@
+body::before{
+  display:block;
+  content: "";
+  height: 60px;
+}
+body {
+
+  margin: 0;
+  font-family: Arial;
+}
+
+/* for id # and for class.*/
+/* no need to nested inside but easier to read*/
+
+
+a {
+  color: blue;
+}
+
+ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+
+
+.skills {
+  background: #a2b8df;
+  display: -ms-grid;
+  display: grid;
+  margin-top: -5em;
+  padding-bottom: 10em;
+}
+
+.skills h1 {
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.skills .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 20em;
+  font-weight: bold;
+  font-size: 0.8em;
+  place-content: space-between;
+}
+
+.skills .container .matlab img {
+  width: 15em;
+  height: 15em;
+  border: 2px solid #3f69df;
+  border-radius: 50%;
+  margin-left: -2em;
+}
+
+.skills .container .python img {
+  width: 15em;
+  height: 15em;
+  border: 2px solid #3f69df;
+  border-radius: 50%;
+  margin-left: -2em;
+}
+
+.skills .container .statistics img {
+  width: 15em;
+  height: 15em;
+  border: 2px solid #3f69df;
+  border-radius: 50%;
+  margin-left: -2em;
+}
+
+
+.contact-section {
+  margin-top: -1em;
+  margin-bottom: -4.5em;
+}
+
+.contact-section .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: -15em;
+}
+
+.contact-section .container .contact-left h2 {
+  font-size: 2.5em;
+}
+
+.contact-section .container .contact-left label {
+  display: block;
+  font-size: 2 em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.contact-section .container .contact-left input, .contact-section .container .contact-left textarea {
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 0.3em;
+  border: 1px solid gray;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.contact-section .container .contact-left .send-message {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  font-size: 1.3em;
+  border: none;
+  border-radius: 5em;
+  display: inline-block;
+  padding: 0.8em 3em;
+  cursor: pointer;
+}
+
+.contact-section .container .contact-left p {
+  color: #161511;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.contact-section .container .contact-right {
+  margin-left: 3em;
+  right: 0;
+  top: 1em;
+  right: -35em;
+}
+
+.contact-section .container .contact-right iframe {
+  width: 1000px;
+  height: 850px;
+}
+
+footer {
+  margin: 0em;
+  padding: 1.2em;
+  background: #0d0e0d;
+  text-align: center;
+  color: white;
+  font-size: 1.5em;
+}
+/*# sourceMappingURL=main.css.map */
