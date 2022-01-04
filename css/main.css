@@ -17,59 +17,10 @@ a {
   color: rgb(251, 255, 0);
 }
 
-ul {
-  list-style-type: none;
-  text-decoration: none;
-}
 
 
 
-.skills {
-  background: #a2b8df;
-  display: -ms-grid;
-  display: grid;
-  margin-top: -5em;
-  padding-bottom: 10em;
-}
 
-.skills h1 {
-  font-weight: bold;
-  font-size: 2.5em;
-}
-
-.skills .container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-left: 20em;
-  font-weight: bold;
-  font-size: 0.8em;
-  place-content: space-between;
-}
-
-.skills .container .matlab img {
-  width: 15em;
-  height: 15em;
-  border: 2px solid #3f69df;
-  border-radius: 50%;
-  margin-left: -2em;
-}
-
-.skills .container .python img {
-  width: 15em;
-  height: 15em;
-  border: 2px solid #3f69df;
-  border-radius: 50%;
-  margin-left: -2em;
-}
-
-.skills .container .statistics img {
-  width: 15em;
-  height: 15em;
-  border: 2px solid #3f69df;
-  border-radius: 50%;
-  margin-left: -2em;
-}
 
 
 .contact-section {
@@ -143,4 +94,3 @@ footer {
   color: white;
   font-size: 1.5em;
 }
-/*# sourceMappingURL=main.css.map */
