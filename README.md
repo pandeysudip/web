@@ -1,5 +1,5 @@
 # My Webpage
-Creating a website using HTML, CSS, and Bootstrap.
+Website created using HTML, CSS, and Bootstrap.
 
 The website is deployed to GitHub at:  
 https://pandeysudip.github.io/web/
