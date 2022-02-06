@@ -5,5 +5,5 @@ The website is deployed to GitHub at:
 https://pandeysudip.github.io/web/
 
 
-![Images/landingResize.png](images/head1.png)
+![Images/landingResize.png](images/head2.png)
 
