@@ -39,14 +39,14 @@ a {
   background-size: cover;
   -o-background-size: cover;
 }
-#exp{
+#ex{
   background: url('../images/back2.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
-#edu{
+#ed{
   background: url('../images/back2.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -93,29 +93,29 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-  height: 70%;
+  width: 65%;
+  height: 65%;
 }
 #i2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-  height: 70%;
+  width: 65%;
+  height: 65%;
 }
 #i3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-  height: 70%;
+  width: 65%;
+  height: 65%;
 }
 #i4 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-  height: 70%;
+  width: 65%;
+  height: 65%;
 }
 #i5 {
   display: block;
@@ -208,4 +208,10 @@ a {
   text-align: center;
   color: white;
   font-size: 1.5em;
+}
+html {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  color: #efefef;
 }
